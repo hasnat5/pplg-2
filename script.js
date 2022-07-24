@@ -39,13 +39,22 @@ title.addEventListener('click', function(){
 //     console.log(angka + ' bukan angka');
 // // }
 
-let nat = '';
+// let nat = '';
 
-for (let i = 10; i>0; i--) {
-    for (let a = 0; a<i; a++) {
-        nat += '*';
-    }
-    nat += '\n';
+// for (let i = 10; i>0; i--) {
+//     for (let a = 0; a<i; a++) {
+//         nat += '*';
+//     }
+//     nat += '\n';
+// }
+
+// console.log(nat);
+
+function nat (a,b) {
+    let total;
+    total = a + b;
+
+    return total;
 }
 
-console.log(nat);
+console.log(total(6,8));
