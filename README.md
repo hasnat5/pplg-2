@@ -1,1 +1,1 @@
-# pplg-2
+# suki.js merupakan sebah wadah untuk menjalankan berbagai eksperimen terhadap bahasa pemrograman javascript
